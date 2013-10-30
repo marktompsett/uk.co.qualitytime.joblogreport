@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<extension key="uk.co.qualitytime.joblogreport" type="module">
+  <downloadUrl>https://github.com/marktompsett/JobLogReport</downloadUrl>
+  <file>joblogreport</file>
+  <name>Scheduled Job Log Report</name>
+  <description>Report template(s) for Scheduled Job Log</description>
+  <license>GNU AGPL</license>
+  <maintainer>
+    <author>Mark Tompsett</author>
+    <email>mark.tompsett@qualitytime.co.uk</email>
+  </maintainer>
+  <releaseDate>2013-10-30</releaseDate>
+  <version>0.9</version>
+  <develStage>beta</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a workaround to the WSOD (White Screen of Death) or "Allowed memory size ... exceeded" errors when trying to View Log in Scheduled Jobs</comments>
+</extension>
